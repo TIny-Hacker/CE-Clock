@@ -6,6 +6,8 @@ This is a port of my [Doors CS 7 Clock](https://github.com/TIny-Hacker/DCS-7-Clo
 It will work with any shell that supports monochrome icons, as long as Celtic is installed. This is sort of a proof of concept as every shell basically has a clock anyway.
 
 ### Installation:
+Install the latest release of the [Celtic CE](bit.ly/CelticCE) libraries from the GitHub according to the instructions [here](https://roccoloxprograms.github.io/CelticCE/installation.html).
+
 Send CLOCK.8xp to the calculator, and run it whenever you want to update the time. (The program must be in RAM and Celtic must be installed for it to work properly)
 
 ### Credits (Basically the same as the original):
